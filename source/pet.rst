@@ -1,14 +1,15 @@
-PET Processing
-==============
+==========================
+PET_Processing_*/ Directory
+==========================
 
-PET Processing ¶ 
- 
- Location : /PET_processing 
- 
- PET_processing
-├── mc_PIB.mat
-└── roi_mask
- 
- 
- The PET processing directory contains the outputs of the RIIPL standardize uptake value (SUVR) pipeline.
+PET Processing Outputs 
 
+Location : /PET_processing 
+
+The PET processing directory contains the outputs of the RIIPL standardize uptake value (SUVR) pipeline.
+
+Example Structure
+-----------------
+
+File Identification
+-------------------

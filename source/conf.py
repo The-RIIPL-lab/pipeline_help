@@ -7,11 +7,11 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'RIIPL Pipeline Help'
-copyright = '2024, Jeremy Hudson'
-author = 'Jeremy Hudson'
+copyright = '2024, RIIPL Lab - Atrium Wake Health - Department of Radiology'
+author = 'RIIPL Dev Team'
 
-version = '1.0'
-release = '1.0'
+version = '1.1'
+release = '1.1'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
