@@ -1,6 +1,6 @@
 # RIIPL Pipeline Processing Outputs Reference
 
-This repository contains documentation for the processing outputs of the RIIPL (Research Improving People's Lives) pipeline, operated by the RIIPL lab at Wake Forest School of Medicine.
+This repository contains documentation for the processing outputs of the RIIPL (Radiology Informatics and Image Processing Laboratory) pipeline, operated by the RIIPL lab at Wake Forest School of Medicine.
 
 ## Contributions
 
